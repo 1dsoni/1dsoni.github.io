@@ -19,6 +19,7 @@
   trainings -       [LinuxWorld, CDAC, RAT, coursera]
   EXPERIENCE -      [ ( CelebalTech 3-months ), ]
 }
+
 {
   hobbies -         [competitive coding, pc-games]
   interests ??
